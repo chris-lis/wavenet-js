@@ -1,0 +1,25 @@
+{
+  "name": "wavenet",
+  "version": "1.0.0",
+  "description": "Deep Mind's WaveNet... but in JS!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chris-lis/wavenet-js.git"
+  },
+  "author": "Chris Lis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chris-lis/wavenet-js/issues"
+  },
+  "homepage": "https://github.com/chris-lis/wavenet-js#readme",
+  "devDependencies": {
+    "typescript": "^3.9.5"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs": "^2.0.1"
+  }
+}
